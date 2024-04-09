@@ -1,4 +1,4 @@
-const cardData = [
+export const cardData = [
     {
         id: 1,
         img: "https://images.pexels.com/photos/2156311/pexels-photo-2156311.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -29,4 +29,3 @@ const cardData = [
     }
 ]
 
-export default cardData
